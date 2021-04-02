@@ -1,0 +1,2 @@
+rootProject.name='FrameGrabber_ScreenRecorder'
+include ':app'
